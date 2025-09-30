@@ -1,5 +1,5 @@
 ## Sales_Analytics_Project
-Created my own data set for Customer data , Product data and Order data. and Executed Some basic Analysis with SQL on MYSQL Workbench 
+Created my own data set for Customer data , Product data and Order data with a total of 20 Customers,3 Products and 40 Orders . and Executed Some basic Analysis with SQL on MYSQL Workbench 
 The Analysis i did are 
 ## Sales Analysis - Category sales
 ## Sales Analysis - Customer Lifetime value (CLV)
